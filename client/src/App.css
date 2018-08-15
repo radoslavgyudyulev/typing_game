@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  padding: 20px;
+}
+.word-wrapper {
+  text-align: center;
+}
+
+#input {
+  text-align: center;
+}
+
+.counter {
+  margin-left: 200px;
+  display: inline;
+  padding: 30px;
+}
+.counter-wrapper {
+  margin: 20px;
+}
+
+.counter-points-wrapper {
+
+  padding-top: 35px; 
+  margin-left: 35%;
+  text-align: center;
+}
